@@ -1,0 +1,12 @@
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\bin\Debug\net6.0\CollectionOfShopsProject.deps.json
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\bin\Debug\net6.0\CollectionOfShopsProject.dll
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\bin\Debug\net6.0\CollectionOfShopsProject.pdb
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.csproj.AssemblyReference.cache
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.AssemblyInfoInputs.cache
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.AssemblyInfo.cs
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.csproj.CoreCompileInputs.cache
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.dll
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\refint\CollectionOfShopsProject.dll
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\CollectionOfShopsProject.pdb
+C:\Users\andyl\source\repos\CollectionOfShops\CollectionOfShopsProject\obj\Debug\net6.0\ref\CollectionOfShopsProject.dll

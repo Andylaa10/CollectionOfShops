@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "9NerxWocXR5Jd1aHwxBvL84B9z1khDgGSBV34oQf5l0XDJuq/o7N1mWLU4QFtJ3e8Z/46zif2GtDF4GMycVnXQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\andyl\\source\\repos\\CollectionOfShops\\Application\\Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\andyl\\.nuget\\packages\\geocoordinate.netcore\\1.0.0.1\\geocoordinate.netcore.1.0.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
